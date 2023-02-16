@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am Sakae Mizuki (水木 栄), a Ph.D. student at [Tokyo Institute of Technology](https://www.nlp.c.titech.ac.jp/index.en.html). I am supervised by [Naoaki Okazaki](http://www.chokkan.org/index.en.html). In parallel to my studies, I work part-time in the R&D divison at [Hotto Link, Inc.](https://www.hottolink.co.jp/company/lab)
+I am Sakae Mizuki (水木 栄), a Ph.D. student at [Tokyo Institute of Technology](https://www.nlp.c.titech.ac.jp/index.en.html). I am honored to be supervised by [Prof. Naoaki Okazaki](http://www.chokkan.org/index.en.html). In parallel to my studies, I work part-time in the R&D divison at [Hotto Link, Inc.](https://www.hottolink.co.jp/company/lab)
 
 My research interest includes representation learning, lexical semantics, and applied machine learning. Specifically, I focus on integrating lexical knowledge into word/sentence embeddings. 
 
@@ -45,7 +45,7 @@ Github: [s-mizuki-nlp](https://github.com/s-mizuki-nlp)
     * Financial Engineer
 
 # Talks
-* Mar. 2022: Workshop Lightning Talk. SNSを出典とする言語資源の公開にまつわるノウハウ. In: NLP2022 Co-located Workshop 日本語における評価用データセットの構築と利用性の向上 (JED2022).
+* Mar. 2022: Workshop Lightning Talk. SNSを出典とする言語資源の公開にまつわるノウハウ. In: NLP2022 Co-located Workshop [日本語における評価用データセットの構築と利用性の向上](https://jedworkshop.github.io/jed2022/) (JED2022).
 * Sep. 2021: Paper Reading Seminar. A Distributional Approach to Controlled Text Generation. In: [最先端NLP勉強会 2021](https://sites.google.com/view/snlp-jp/home/2021). [Slide](https://drive.google.com/file/d/15Mop-UMMi1pQhGSQIL5WdFE5V0ay8e4T/view?usp=sharing)
 * Sep. 2020: Paper Reading Seminar. ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators. In: [最先端NLP勉強会 2020](https://sites.google.com/view/snlp-jp/home/2020). [Slide](https://drive.google.com/file/d/1yZRpV0n7URpSaWQbk2pWC_KaZ2B1UBfw/view?usp=sharing)
 * Sep. 2019: Paper Reading Seminar. Ordered neurons: Integrating tree structures into recurrent neural networks. In: [最先端NLP勉強会 2019](https://sites.google.com/view/snlp-jp/home/2019). [Slide](https://drive.google.com/file/d/1mok8sINXbdnTm9rZhoYm9EFqsGOGXZuo/view?usp=sharing)
@@ -57,3 +57,8 @@ Github: [s-mizuki-nlp](https://github.com/s-mizuki-nlp)
 * Information Processing Society of Japan (IPSJ)
 * The Securities Analysts Association of Japan (SAAJ)
 * [NLP Dの会](https://sites.google.com/view/nlp-phd)
+
+# Skills
+* Python, PyTorch (, R and C++)
+* Elasticsearch
+* Data science
