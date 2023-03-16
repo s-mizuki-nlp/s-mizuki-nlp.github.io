@@ -18,16 +18,17 @@ Github: [s-mizuki-nlp](https://github.com/s-mizuki-nlp)
 * <u>Sakae Mizuki</u> and Naoaki Okazaki. Analyzing the Variation Property of Contextualized Word Representations. In AI 2019: Advances in Artificial Intelligence, pages 393–405, December 2019. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_32)
 
 ## Domestic Conference
-* <u>Sakae Mizuki</u> and Naoaki Okazaki. Semantic Specialization for Knowledge-based Word Sense Disambiguation. 29th Annual Meeting of The Association for Natural Language Processing (NLP2023), pp. (to appear), March 2023. (in Japanese)
+* <u>Sakae Mizuki</u> and Naoaki Okazaki. Semantic Specialization for Knowledge-based Word Sense Disambiguation. 29th Annual Meeting of The Association for Natural Language Processing (NLP2023), March 2023. (in Japanese) [Paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/C3-1.pdf), [Best Paper Award](https://www.anlp.jp/nlp2023/award.html)
 * Ryogo Ishikawa, Ayana Niwa, <u>Sakae Mizuki</u>, Naoaki Okazaki. Robust Dependency Parsing for the Omission of a Post-positional Particle using Pseudo Training Data. The 28th Annual Meeting of the Association for Natural Language Processing (NLP2022), March 2022. (in Japanese) [Paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/B7-1.pdf)
-* <u>Sakae Mizuki</u> and Naoaki Okazaki. Hyponymy Detection using Hierarchical Code Learning. 27th Annual Meeting of The Association for Natural Language Processing (NLP2021), pp. 1236–1241, March 2021. (in Japanese) [Paper](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A7-4.pdf)
-* <u>Sakae Mizuki</u> and Takeshi Sakaki. General-Purpose Oriented Extended Named Entity Labeling of Wikipedia Entries. IEICE Technical Report, vol. 117, no. 82, NLC2017-9, pp. 47-52, June 2017. (in Japanese) [Paper](https://ken.ieice.org/ken/paper/20170610FbuG/eng/)
+* <u>Sakae Mizuki</u> and Naoaki Okazaki. Hyponymy Detection using Hierarchical Code Learning. 27th Annual Meeting of The Association for Natural Language Processing (NLP2021), pp. 1236–1241, March 2021. (in Japanese) [Paper](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/A7-4.pdf), [Best Paper Award](https://www.anlp.jp/nlp2021/award.html)
+* <u>Sakae Mizuki</u> and Takeshi Sakaki. General-Purpose Oriented Extended Named Entity Labeling of Wikipedia Entries. IEICE Technical Report, vol. 117, no. 82, NLC2017-9, pp. 47-52, June 2017. (in Japanese) [Paper](https://ken.ieice.org/ken/paper/20170610FbuG/eng/), [Best Paper Award](https://www.ieice.org/iss/nlc/wiki/wiki.cgi?page=%B8%A6%B5%E6%BE%DE2017%C7%AF%C8%EF%C9%BD%BE%B4%BC%D4)
 
 ## Others
 * For a full list of publications including research papers written as part of office duties, refer to my [Google Scholar](https://scholar.google.co.jp/citations?user=ryX_tAEAAAAJ&hl=ja)
 
 # Honors and Awards
-* Mar. 2021: Best Paper Award, the 27th Annual Meeting of The Association for Natural Language Processing
+* Mar. 2023: Best Paper Award, the 29th Annual Meeting of The Association for Natural Language Processing (NLP2023)
+* Mar. 2021: Best Paper Award, the 27th Annual Meeting of The Association for Natural Language Processing (NLP2021)
 * Jan. 2018: Best Paper Award, IEICE Technical Committee on Natural Language Understanding and Models of Communication (NLC)
 
 # Education
@@ -41,7 +42,7 @@ Github: [s-mizuki-nlp](https://github.com/s-mizuki-nlp)
 # Work Experience
 * Mar. 2015 - Present: Hotto Link Inc.
     * Research Engineer
-* Apr. 2009 - Feb. 2015: Mizuho Bank, Ltd. (seconded to Mizuho-DL Financial Technology Co., Ltd.)
+* Apr. 2009 - Feb. 2015: Mizuho Bank, Ltd. (seconded to [Mizuho-DL Financial Technology Co., Ltd.](https://www.mizuhobank.co.jp/fintec/english/index.html))
     * Financial Engineer
 
 # Talks
@@ -59,6 +60,8 @@ Github: [s-mizuki-nlp](https://github.com/s-mizuki-nlp)
 * [NLP Dの会](https://sites.google.com/view/nlp-phd)
 
 # Skills
+* Japanese (native)
+* English (fluent)
 * Python, PyTorch (, R and C++)
 * Elasticsearch
 * Data science
