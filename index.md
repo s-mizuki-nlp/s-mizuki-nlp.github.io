@@ -7,6 +7,7 @@ I am Sakae Mizuki (水木 栄), a Ph.D. student at [Tokyo Institute of Technolog
 My research interest includes representation learning, lexical semantics, and applied machine learning. Specifically, I focus on integrating lexical knowledge into word/sentence embeddings. 
 
 Github: [s-mizuki-nlp](https://github.com/s-mizuki-nlp)
+Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 
 # Publications
 
