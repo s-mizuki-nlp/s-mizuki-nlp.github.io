@@ -16,8 +16,8 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 * <u>Sakae Mizuki</u> and Naoaki Okazaki. Learning Hierarchical Code Representation for Hypernymy Detection. Journal of Information Processing (TOD), 14(4):8–23, 2021. [Paper](http://id.nii.ac.jp/1001/00213162/)
 
 ## International Conference
-* <u>Sakae Mizuki</u> and Naoaki Okazaki. Semantic Specialization for Knowledge-based Word Sense Disambiguation. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), pp. (to appear), May 2023. [arXiv](https://arxiv.org/abs/2304.11340)
-* <u>Sakae Mizuki</u> and Naoaki Okazaki. Analyzing the Variation Property of Contextualized Word Representations. In AI 2019: Advances in Artificial Intelligence, pages 393–405, December 2019. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_32)
+* <u>Sakae Mizuki</u> and Naoaki Okazaki. Semantic Specialization for Knowledge-based Word Sense Disambiguation. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), pp. 3449-3462, May 2023. [Paper](https://aclanthology.org/2023.eacl-main.251/)
+* <u>Sakae Mizuki</u> and Naoaki Okazaki. Analyzing the Variation Property of Contextualized Word Representations. In AI 2019: Advances in Artificial Intelligence, pp. 393–405, December 2019. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_32)
 
 ## Domestic Conference
 * <u>Sakae Mizuki</u> and Naoaki Okazaki. Semantic Specialization for Knowledge-based Word Sense Disambiguation. 29th Annual Meeting of The Association for Natural Language Processing (NLP2023), March 2023. (in Japanese) [Paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/C3-1.pdf), [Best Paper Award](https://www.anlp.jp/nlp2023/award.html)
