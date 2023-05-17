@@ -48,6 +48,7 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
     * Financial Engineer
 
 # Talks
+* Mar. 2023: Invited talk. 埋め込み表現の意味適応による知識ベース語義曖昧性解消. In: [NLP Colloquium](https://nlp-colloquium-jp.github.io/).
 * Mar. 2022: Workshop Lightning Talk. SNSを出典とする言語資源の公開にまつわるノウハウ. In: NLP2022 Co-located Workshop [日本語における評価用データセットの構築と利用性の向上](https://jedworkshop.github.io/jed2022/) (JED2022).
 * Sep. 2021: Paper Reading Seminar. A Distributional Approach to Controlled Text Generation. In: [最先端NLP勉強会 2021](https://sites.google.com/view/snlp-jp/home/2021). [Slide](https://drive.google.com/file/d/15Mop-UMMi1pQhGSQIL5WdFE5V0ay8e4T/view?usp=sharing)
 * Sep. 2020: Paper Reading Seminar. ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators. In: [最先端NLP勉強会 2020](https://sites.google.com/view/snlp-jp/home/2020). [Slide](https://drive.google.com/file/d/1yZRpV0n7URpSaWQbk2pWC_KaZ2B1UBfw/view?usp=sharing)
