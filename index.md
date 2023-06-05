@@ -16,6 +16,7 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 * <u>Sakae Mizuki</u> and Naoaki Okazaki. Learning Hierarchical Code Representation for Hypernymy Detection. Journal of Information Processing (TOD), 14(4):8–23, 2021. [Paper](http://id.nii.ac.jp/1001/00213162/)
 
 ## International Conference
+* Shogo Matsuno, <u>Sakae Mizuki</u>, and Takeshi Sakaki. Construction of Evaluation Datasets for Trend Forecasting Studies. In Proceedings of the 17th International AAAI Conference on Web and Social Media (ICWSM 2023), pp. 1041-1051, June 2023. [Paper](https://ojs.aaai.org/index.php/ICWSM/issue/view/532), [Dataset](https://zenodo.org/record/7014424)
 * <u>Sakae Mizuki</u> and Naoaki Okazaki. Semantic Specialization for Knowledge-based Word Sense Disambiguation. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), pp. 3449-3462, May 2023. [Paper](https://aclanthology.org/2023.eacl-main.251/)
 * <u>Sakae Mizuki</u> and Naoaki Okazaki. Analyzing the Variation Property of Contextualized Word Representations. In AI 2019: Advances in Artificial Intelligence, pp. 393–405, December 2019. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_32)
 
