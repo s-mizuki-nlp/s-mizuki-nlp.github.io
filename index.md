@@ -51,10 +51,10 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 # Talks
 * Mar. 2023: Invited talk. 埋め込み表現の意味適応による知識ベース語義曖昧性解消. In: [NLP Colloquium](https://nlp-colloquium-jp.github.io/).
 * Mar. 2022: Workshop Lightning Talk. SNSを出典とする言語資源の公開にまつわるノウハウ. In: NLP2022 Co-located Workshop [日本語における評価用データセットの構築と利用性の向上](https://jedworkshop.github.io/jed2022/) (JED2022).
-* Sep. 2021: Paper Reading Seminar. A Distributional Approach to Controlled Text Generation. In: [最先端NLP勉強会 2021](https://sites.google.com/view/snlp-jp/home/2021). [Slide](https://drive.google.com/file/d/15Mop-UMMi1pQhGSQIL5WdFE5V0ay8e4T/view?usp=sharing)
-* Sep. 2020: Paper Reading Seminar. ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators. In: [最先端NLP勉強会 2020](https://sites.google.com/view/snlp-jp/home/2020). [Slide](https://drive.google.com/file/d/1yZRpV0n7URpSaWQbk2pWC_KaZ2B1UBfw/view?usp=sharing)
-* Sep. 2019: Paper Reading Seminar. Ordered neurons: Integrating tree structures into recurrent neural networks. In: [最先端NLP勉強会 2019](https://sites.google.com/view/snlp-jp/home/2019). [Slide](https://drive.google.com/file/d/1mok8sINXbdnTm9rZhoYm9EFqsGOGXZuo/view?usp=sharing)
-* Aug. 2018: Paper Reading Seminar. Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing. In: [最先端NLP勉強会 2018](https://sites.google.com/view/snlp-jp/home/2018). [Slide](https://drive.google.com/file/d/12RK5s0oFukBszTuBkUIEYkGYk_xh36WV/view?usp=sharing)
+* Sep. 2021: Paper Reading Seminar. A Distributional Approach to Controlled Text Generation. In: [最先端NLP勉強会 2021](https://sites.google.com/view/snlp-jp/home/2021). [Slide](https://speakerdeck.com/s_mizuki_nlp/lun-wen-du-mihui-snlp2021-a-distributional-approach-to-controlled-text-generation)
+* Sep. 2020: Paper Reading Seminar. ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators. In: [最先端NLP勉強会 2020](https://sites.google.com/view/snlp-jp/home/2020). [Slide](https://speakerdeck.com/s_mizuki_nlp/lun-wen-du-mihui-snlp2020-electra-pre-training-text-encoders-as-discriminators-rather-than-generators)
+* Sep. 2019: Paper Reading Seminar. Ordered neurons: Integrating tree structures into recurrent neural networks. In: [最先端NLP勉強会 2019](https://sites.google.com/view/snlp-jp/home/2019). [Slide](https://speakerdeck.com/s_mizuki_nlp/lun-wen-du-mihui-snlp2019-ordered-neurons-integrating-tree-structures-into-recurrent-neural-networks)
+* Aug. 2018: Paper Reading Seminar. Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing. In: [最先端NLP勉強会 2018](https://sites.google.com/view/snlp-jp/home/2018). [Slide](https://speakerdeck.com/s_mizuki_nlp/lun-wen-du-mihui-snlp2018-sequence-to-action-end-to-end-semantic-graph-generation-for-semantic-parsing)
 * Mar. 2016: Workshop. ソーシャルメディア分析サービスにおけるNLPに関する諸問題について. In: NLP2016 Co-located Workshop 論文に書かない（書けない）自然言語処理. 
 
 # Membership
