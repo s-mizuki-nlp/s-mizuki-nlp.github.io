@@ -58,7 +58,7 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 * Mar. 2016: Workshop. ソーシャルメディア分析サービスにおけるNLPに関する諸問題について. In: NLP2016 Co-located Workshop 論文に書かない（書けない）自然言語処理. 
 
 # Membership
-* The Assocation for Natural Language Processing (NLP)
+* The Association for Natural Language Processing (NLP)
 * Information Processing Society of Japan (IPSJ)
 * The Securities Analysts Association of Japan (SAAJ)
 * [NLP Dの会](https://sites.google.com/view/nlp-phd)
