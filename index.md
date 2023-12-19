@@ -38,7 +38,7 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 * Jan. 2018: Best Paper Award, IEICE Technical Committee on Natural Language Understanding and Models of Communication (NLC)
 
 # Education
-* Apr. 2018 - Present: Ph.D. student of Computer Science, Tokyo Institute of Technology, Japan
+* Apr. 2018 - Dec. 2023: Ph.D. of Engineering (Computer Science), Tokyo Institute of Technology, Japan
     * Research field: Natural Language Processing
 * Apr. 2007 - Mar. 2009: Master of Engineering, Tokyo University, Japan
     * Research field: Aerospace Engineering
@@ -50,6 +50,9 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
     * Research Engineer
 * Apr. 2009 - Feb. 2015: Mizuho Bank, Ltd. (seconded to [Mizuho-DL Financial Technology Co., Ltd.](https://www.mizuhobank.co.jp/fintec/index.html))
     * Financial Engineer
+
+# Projects
+* Oct. 2023 - Present: [TokyoTech-LLM: large-scale language model research and development program](https://tokyotech-llm.github.io/)
 
 # Talks
 * Sep. 2023: LLM Seminar. Model imitationによるInstruction tuningのサーベイ. In: [LLM勉強会](https://llm-jp.nii.ac.jp/resources/).
@@ -65,7 +68,7 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 * The Association for Natural Language Processing (NLP)
 * Information Processing Society of Japan (IPSJ)
 * The Securities Analysts Association of Japan (SAAJ)
-* [NLP Dの会](https://sites.google.com/view/nlp-phd)
+* [LLM-jp: LLM勉強会](https://llm-jp.nii.ac.jp/)
 
 # Skills
 * Japanese (native)
