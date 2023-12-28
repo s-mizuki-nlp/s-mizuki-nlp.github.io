@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am Sakae Mizuki (水木 栄), a Ph.D. student at [Tokyo Institute of Technology](https://www.nlp.c.titech.ac.jp/index.en.html). I am honored to be supervised by [Prof. Naoaki Okazaki](http://www.chokkan.org/index.en.html). In parallel to my studies, I work part-time in the R&D divison at [Hotto Link, Inc.](https://www.hottolink.co.jp/company/lab)
+I am Sakae Mizuki (水木 栄), Ph.D. graduate in Computer Science (Natural Language Processing) from Tokyo Institute of Technology, where I had the honor of being supervised by [Prof. Naoaki Okazaki](http://www.chokkan.org/index.en.html). Having completed my doctoral studies, I now continue my career in the R&D division at Hotto Link, Inc.
 
-My research interest includes representation learning, lexical semantics, and applied machine learning. Specifically, I focus on integrating lexical knowledge into word/sentence embeddings. 
+In parallel to my full-time work, I am also a part-time researcher at [Tokyo Institute of Technology](https://www.nlp.c.titech.ac.jp/index.en.html). My research interests focused on representation learning, lexical semantics, with a specific emphasis on integrating lexical knowledge into large-scale language models.
 
 Github: [s-mizuki-nlp](https://github.com/s-mizuki-nlp)
 
@@ -46,6 +46,8 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
     * Research field: Aerospace Engineering
 
 # Work Experience
+* Jan. 2024 - Present: Tokyo Institute of Technology
+    * Part-time Researcher
 * Mar. 2015 - Present: Hotto Link Inc.
     * Research Engineer
 * Apr. 2009 - Feb. 2015: Mizuho Bank, Ltd. (seconded to [Mizuho-DL Financial Technology Co., Ltd.](https://www.mizuhobank.co.jp/fintec/index.html))
