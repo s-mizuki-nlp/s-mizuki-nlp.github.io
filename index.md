@@ -4,7 +4,7 @@ layout: default
 
 I am Sakae Mizuki (水木 栄), Ph.D. graduate in Computer Science (Natural Language Processing) from Tokyo Institute of Technology, where I had the honor of being supervised by [Prof. Naoaki Okazaki](http://www.chokkan.org/index.en.html). Having completed my doctoral studies, I now continue my career in the R&D division at Hotto Link, Inc.
 
-In parallel to my full-time work, I am also a part-time researcher at [Tokyo Institute of Technology](https://www.nlp.c.titech.ac.jp/index.en.html). My research interests focused on representation learning, lexical semantics, with a specific emphasis on integrating lexical knowledge into large-scale language models.
+In parallel to my full-time work, I am also a part-time researcher at [Tokyo Institute of Technology](https://www.nlp.c.titech.ac.jp/index.en.html) and visiting researcher at [National Institute of Advanced Industrial Science and Technology](https://www.airc.aist.go.jp/). My research interests focused on representation learning, lexical semantics, with a specific emphasis on integrating lexical knowledge into large language models.
 
 Github: [s-mizuki-nlp](https://github.com/s-mizuki-nlp)
 
@@ -50,6 +50,8 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
     * Research field: Aerospace Engineering
 
 # Work Experience
+* Jul. 2024 - Present: National Institute of Advanced Industrial Science and Technology
+    * Visiting Researcher
 * Jan. 2024 - Present: Tokyo Institute of Technology
     * Part-time Researcher
 * Mar. 2015 - Present: Hotto Link Inc.
@@ -58,9 +60,10 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
     * Financial Engineer
 
 # Projects
-* Oct. 2023 - Present: [TokyoTech-LLM: large-scale language model research and development program](https://tokyotech-llm.github.io/)
+* Oct. 2023 - Present: [Swallow LLM: large-scale language model research and development program](https://swallow-llm.github.io/index.en.html)
 
 # Talks
+* Jan. 2024: LLM Seminar. 大規模言語モデルSwallow. In: [LLM勉強会](https://llm-jp.nii.ac.jp/resources/).
 * Sep. 2023: LLM Seminar. Model imitationによるInstruction tuningのサーベイ. In: [LLM勉強会](https://llm-jp.nii.ac.jp/resources/).
 * Mar. 2023: Invited talk. 埋め込み表現の意味適応による知識ベース語義曖昧性解消. In: [NLP Colloquium](https://nlp-colloquium-jp.github.io/).
 * Mar. 2022: Workshop Lightning Talk. SNSを出典とする言語資源の公開にまつわるノウハウ. In: NLP2022 Co-located Workshop [日本語における評価用データセットの構築と利用性の向上](https://jedworkshop.github.io/jed2022/) (JED2022).
