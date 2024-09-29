@@ -23,6 +23,7 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 * <u>Sakae Mizuki</u> and Naoaki Okazaki. Analyzing the Variation Property of Contextualized Word Representations. In AI 2019: Advances in Artificial Intelligence, pp. 393–405, December 2019. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_32)
 
 ## Domestic Conference
+* Koshiro Saito, <u>Sakae Mizuki</u>, Masanari Ohi, ..., and Naoaki Okazaki. Advantages of Training LLMs on Japanese Text (LLMに日本語テキストを学習させる意義). The 261st Special Interest Group on Natural Language Processing (SIG-NL), September 2024. (in Japanese) [Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=238505&item_no=1&page_id=13&block_id=8), [Best Paper Award](https://sites.google.com/sig-nl.ipsj.or.jp/sig-nl/%E6%8E%88%E8%B3%9E/outstanding)
 * Kazuki Fujii, Taishi Nakamura, Mengsay Loem, ..., <u>Sakae Mizuki</u>, Rio Yokota, and Naoaki Okazaki. Developing High-Performance Japanese Large-scale Language Models Using Continual Pre-training (継続事前学習による日本語に強い大規模言語モデルの構築). The 30th Annual Meeting of The Association for Natural Language Processing (NLP2024), March 2024. (in Japanese) [Paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A8-5.pdf), [Best Paper Award](https://www.anlp.jp/nlp2024/award.html)
 * <u>Sakae Mizuki</u>, Hiroki Iida, Kazuki Fujii, ..., and Naoaki Okazaki. Efficient Japanese Language Capabilities Enhancement in Large-scale Language Models: Utilizing Vocabulary Expansion and Parallel Corpus in Continual Pre-training (大規模言語モデルの日本語能力の効率的な強化: 継続事前学習における語彙拡張と対訳コーパスの活用). The 30th Annual Meeting of The Association for Natural Language Processing (NLP2024), March 2024. (in Japanese) [Paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A6-4.pdf)
 * Naoaki Okazaki, Kakeru Hattori, Shota Hirai, ..., and <u>Sakae Mizuki</u>. Swallow Corpus: Large-scale Japanese Web Text Corpus (Swallowコーパス: 日本語大規模ウェブコーパス). The 30th Annual Meeting of The Association for Natural Language Processing (NLP2024), March 2024. (in Japanese) [Paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/A6-1.pdf), [Best Paper Award](https://www.anlp.jp/nlp2024/award.html)
@@ -38,6 +39,7 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 * For a full list of publications including research papers written as part of office duties, refer to my [Google Scholar](https://scholar.google.co.jp/citations?user=ryX_tAEAAAAJ&hl=ja)
 
 # Honors and Awards
+* Sep. 2024: Best Paper Award (co-authored), the 261st Special Interest Group on Natural Language Processing (SIG-NL)
 * Mar. 2024: Best Paper Award (co-authored two papers), the 30th Annual Meeting of The Association for Natural Language Processing (NLP2024)
 * Mar. 2023: Best Paper Award, the 29th Annual Meeting of The Association for Natural Language Processing (NLP2023)
 * Mar. 2021: Best Paper Award, the 27th Annual Meeting of The Association for Natural Language Processing (NLP2021)
