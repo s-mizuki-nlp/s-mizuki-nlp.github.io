@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am Sakae Mizuki (水木 栄), Ph.D. graduate in Computer Science (Natural Language Processing) from Tokyo Institute of Technology, where I had the honor of being supervised by [Prof. Naoaki Okazaki](http://www.chokkan.org/index.en.html). Having completed my doctoral studies, I now continue my career in the R&D division at Hotto Link, Inc.
+I am Sakae Mizuki (水木 栄), Ph.D. graduate in Computer Science (Natural Language Processing) from Institute of Science Tokyo (formerly Tokyo Institute of Technology), where I had the honor of being supervised by [Prof. Naoaki Okazaki](http://www.chokkan.org/index.en.html). Having completed my doctoral studies, I now continue my career in the R&D division at Hotto Link, Inc.
 
-In parallel to my full-time work, I am also a part-time researcher at [Tokyo Institute of Technology](https://www.nlp.c.titech.ac.jp/index.en.html) and visiting researcher at [National Institute of Advanced Industrial Science and Technology](https://www.airc.aist.go.jp/). My research interests focused on representation learning, lexical semantics, with a specific emphasis on integrating lexical knowledge into large language models.
+In parallel to my full-time work, I am also a part-time researcher at [Institute of Science Tokyo](https://www.nlp.c.titech.ac.jp/index.en.html) and visiting researcher at [National Institute of Advanced Industrial Science and Technology](https://www.airc.aist.go.jp/). My research interests focused on representation learning, lexical semantics, with a specific emphasis on integrating lexical knowledge into large language models.
 
 Github: [s-mizuki-nlp](https://github.com/s-mizuki-nlp)
 
@@ -46,7 +46,7 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 * Jan. 2018: Best Paper Award, IEICE Technical Committee on Natural Language Understanding and Models of Communication (NLC)
 
 # Education
-* Apr. 2018 - Dec. 2023: Ph.D. of Engineering (Computer Science), Tokyo Institute of Technology, Japan
+* Apr. 2018 - Dec. 2023: Ph.D. of Engineering (Computer Science), Institute of Science Tokyo (formerly Tokyo Institute of Technology), Japan
     * Research field: Natural Language Processing
 * Apr. 2007 - Mar. 2009: Master of Engineering, Tokyo University, Japan
     * Research field: Aerospace Engineering
@@ -56,7 +56,7 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 # Work Experience
 * Jul. 2024 - Present: National Institute of Advanced Industrial Science and Technology
     * Visiting Researcher
-* Jan. 2024 - Present: Tokyo Institute of Technology
+* Jan. 2024 - Present: Institute of Science Tokyo
     * Part-time Researcher
 * Mar. 2015 - Present: Hotto Link Inc.
     * Research Engineer
