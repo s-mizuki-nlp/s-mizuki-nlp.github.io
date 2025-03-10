@@ -3,7 +3,7 @@
 set -e
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --check-html --check-sri --url-ignore '/www.googletagmanager.com/'
+bundle exec htmlproofer ./_site --check-html --check-sri --url-ignore '/www.googletagmanager.com/' --url-ignore 'https://ojs.aaai.org/index.php/ICWSM/issue/view/532'
 bundle exec rubocop -D --config .rubocop.yml
 bundle exec script/validate-html
 gem build jekyll-theme-cayman.gemspec
