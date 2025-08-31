@@ -72,6 +72,7 @@ Email: sakae.mizuki [aatt] nlp [dot] c.titech.ac.jp
 * Oct. 2023 - Present: [Swallow LLM: large-scale language model research and development program](https://swallow-llm.github.io/index.en.html)
 
 # Talks
+* Aug. 2025: Paper Reading Seminar. Learning Dynamics of LLM Finetuning. In: [最先端NLP勉強会 2025](https://sites.google.com/view/snlp-jp/home/2025). [Slide](https://speakerdeck.com/s_mizuki_nlp/lun-wen-du-mihui-snlp2025-learning-dynamics-of-llm-finetuning-in-iclr-2025)
 * Aug. 2024: Paper Reading Seminar. Instruction-tuned Language Models are Better Knowledge Learners. In: [最先端NLP勉強会 2024](https://sites.google.com/view/snlp-jp/home/2024). [Slide](https://speakerdeck.com/s_mizuki_nlp/instruction-tuned-language-models-are-better-knowledge-learners-in-acl-2024)
 * Jan. 2024: LLM Seminar. 大規模言語モデルSwallow. In: [LLM勉強会](https://llm-jp.nii.ac.jp/resources/).
 * Sep. 2023: LLM Seminar. Model imitationによるInstruction tuningのサーベイ. In: [LLM勉強会](https://llm-jp.nii.ac.jp/resources/).
