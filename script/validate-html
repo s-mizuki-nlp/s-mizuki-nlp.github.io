@@ -1,7 +1,11 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
+require "net/http"
 require "w3c_validators"
+
+MAX_RETRIES = 3
+RETRY_WAIT_SECONDS = 2
 
 def validator(file)
   extension = File.extname(file)
@@ -12,11 +16,31 @@ def validator(file)
   end
 end
 
+def transient_validator_error?(error)
+  return true if error.is_a?(W3CValidators::ValidatorUnavailable)
+
+  return false unless error.is_a?(Net::HTTPClientException)
+
+  error.message.match?(/\b(429|5\d\d)\b/)
+end
+
 def validate(file)
   puts "Checking #{file}..."
 
   path = File.expand_path "../_site/#{file}", __dir__
-  results = validator(file).validate_file(path)
+  attempts = 0
+  begin
+    attempts += 1
+    results = validator(file).validate_file(path)
+  rescue StandardError => e
+    if transient_validator_error?(e) && attempts < MAX_RETRIES
+      warn "Temporary validator error for #{file} (attempt #{attempts}/#{MAX_RETRIES}): #{e.message}"
+      sleep RETRY_WAIT_SECONDS
+      retry
+    end
+
+    raise
+  end
 
   return puts "Valid!" if results.errors.empty?
 
